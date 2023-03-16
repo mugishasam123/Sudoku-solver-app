@@ -1,0 +1,17 @@
+{
+  "name": "sudoku-solver-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "python3 -m unittest discover -s tests -p \"test_*.py\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "python-shell": "^5.0.0"
+  }
+}
