@@ -13,8 +13,7 @@ font2 = pygame.font.SysFont("comicsans", 14)
 
 screen = pygame.display.set_mode((500, 600))
 pygame.display.set_caption("SUDOKU GAME WITH AUTO-SOLVER")
-img = pygame.image.load('./assets/game-icon.png')
-pygame.display.set_icon(img)
+
 
 # Global variables
 x = 0
